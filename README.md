@@ -22,4 +22,5 @@ Runs were executed on HPC with **SLURM** and **Apptainer/Singularity** (GPU).
 ## Skills / Stack
 Python, Bash, GPU jobs (A100), SLURM, Apptainer/Singularity, RFdiffusion, ProteinMPNN, RF2, data wrangling & plotting.
 
-## Repo layout
+## Disclaimer
+This repository contains **mock commands and paths** only. Replace with local paths, models and data.
